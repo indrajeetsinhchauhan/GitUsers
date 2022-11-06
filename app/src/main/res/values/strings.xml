@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitUsers</string>
+    <string name="user_label">User:</string>
+    <string name="username_hint">username</string>
+    <string name="email_label">Email:</string>
+    <string name="email_hint">email</string>
+    <string name="followers_label">Followers:</string>
+    <string name="followers_hint">followers</string>
+    <string name="following_label">Following:</string>
+    <string name="following_hint">following</string>
+    <string name="bio_label">Bio:</string>
+    <string name="bio_hint">bio</string>
+</resources>
